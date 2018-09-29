@@ -1,12 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Preset isAutoSaved="true" xmlns="urn:schemas-nliteos-com:pn.v1">
-	<Date>09/30/2018 05:43</Date>
-	<AppInfo>
-		<Version>1.7.0.6522</Version>
-		<Licensed>No</Licensed>
-		<Protections>Yes</Protections>
-		<Host>Windows 10 Enterprise (1809) 64-位 - Client 10.0.18247.1001 (zh-CN)</Host>
-	</AppInfo>
 	<ImageInfo>
 		<Version mode="offline">Windows 10 Enterprise (1809) 64-位 - Client 10.0.18247.1001 (zh-CN)</Version>
 		<GUID>{1E1A4EAC-0080-8388-6236-D493B590925D}</GUID>
@@ -322,8 +315,6 @@
 			<Task>imageFormatEsd</Task>
 			<Task>imageOptionsCreateIso</Task>
 		</ImageTasks>
-		<AutoIsoFile>D:\18247.1001.180922-2224.RS_PRERELEASE_CLIENTENTERPRISE_UUP_X64FRE_NETFX_ZH-CN.iso</AutoIsoFile>
-		<AutoIsoLabel>CCSA_X64FRE_ZH-CN_DV5</AutoIsoLabel>
 		<AutoSplitSize>4000</AutoSplitSize>
 		<CleanHotfixedLeftovers>0</CleanHotfixedLeftovers>
 		<ReuseDriverCache>false</ReuseDriverCache>
