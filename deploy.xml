@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Preset isAutoSaved="true" xmlns="urn:schemas-nliteos-com:pn.v1">
+	<Date>09/30/2018 05:43</Date>
+	<AppInfo>
+		<Version>1.7.0.6522</Version>
+		<Licensed>No</Licensed>
+		<Protections>Yes</Protections>
+		<Host>Windows 10 Enterprise (1809) 64-位 - Client 10.0.18247.1001 (zh-CN)</Host>
+	</AppInfo>
+	<ImageInfo>
+		<Version mode="offline">Windows 10 Enterprise (1809) 64-位 - Client 10.0.18247.1001 (zh-CN)</Version>
+		<GUID>{1E1A4EAC-0080-8388-6236-D493B590925D}</GUID>
+	</ImageInfo>
+	<RemoveComponents></RemoveComponents>
+	<Compatibility protectHidden="false">
+		<ComponentFeatures>
+			<Feature enabled="yes">OOBE</Feature>
+			<Feature enabled="yes">CortanaSupport</Feature>
+			<Feature enabled="no">Hyper-V</Feature>
+			<Feature enabled="yes">OfficeSupport</Feature>
+			<Feature enabled="yes">NvidiaSetup</Feature>
+			<Feature enabled="no">SafeMode</Feature>
+			<Feature enabled="no">SamsungSwitch</Feature>
+			<Feature enabled="yes">ShellSearchSupport</Feature>
+			<Feature enabled="yes">Spotify</Feature>
+			<Feature enabled="yes">USBModem</Feature>
+			<Feature enabled="yes">USB</Feature>
+			<Feature enabled="no">VisualStudio</Feature>
+			<Feature enabled="no">VPN</Feature>
+			<Feature enabled="yes">WindowsUpdate</Feature>
+			<Feature enabled="yes">ActivationKMS</Feature>
+			<Feature enabled="yes">Activation</Feature>
+			<Feature enabled="yes">WLAN</Feature>
+			<Feature enabled="no">ManualSetup</Feature>
+			<Feature enabled="yes">Printing</Feature>
+			<Feature enabled="yes">Recommended-All</Feature>
+			<Feature enabled="yes">AppxSupport</Feature>
+			<Feature enabled="no">NetworkDiscovery</Feature>
+			<Feature enabled="yes">VideoPlayback</Feature>
+			<Feature enabled="no">Recommended-Tablet</Feature>
+			<Feature enabled="yes">DefaultFonts</Feature>
+		</ComponentFeatures>
+		<MachineDrivers>
+			<Machine enabled="no">Hyper-V VM</Machine>
+			<Machine enabled="no">Parallels VM</Machine>
+			<Machine enabled="no">Virtual Box VM</Machine>
+			<Machine enabled="no">VMware VM</Machine>
+			<Machine enabled="yes">HostMachine</Machine>
+		</MachineDrivers>
+	</Compatibility>
+	<Features>
+		<Feature name="IIS-NetFxExtensibility">true</Feature>
+		<Feature name="IIS-NetFxExtensibility45">true</Feature>
+		<Feature name="IIS-ApplicationDevelopment">true</Feature>
+		<Feature name="IIS-ApplicationInit">true</Feature>
+		<Feature name="IIS-ASPNET">true</Feature>
+		<Feature name="IIS-ASPNET45">true</Feature>
+		<Feature name="NetFx4Extended-ASPNET45">true</Feature>
+		<Feature name="IIS-ASP">true</Feature>
+		<Feature name="IIS-BasicAuthentication">true</Feature>
+		<Feature name="IIS-CertProvider">true</Feature>
+		<Feature name="IIS-CGI">true</Feature>
+		<Feature name="IIS-ClientCertificateMappingAuthentication">true</Feature>
+		<Feature name="IIS-CommonHttpFeatures">true</Feature>
+		<Feature name="IIS-CustomLogging">true</Feature>
+		<Feature name="DataCenterBridging">true</Feature>
+		<Feature name="IIS-DefaultDocument">true</Feature>
+		<Feature name="IIS-DigestAuthentication">true</Feature>
+		<Feature name="DirectPlay">true</Feature>
+		<Feature name="IIS-DirectoryBrowsing">true</Feature>
+		<Feature name="IIS-HttpCompressionDynamic">true</Feature>
+		<Feature name="IIS-FTPExtensibility">true</Feature>
+		<Feature name="IIS-FTPServer">true</Feature>
+		<Feature name="IIS-FTPSvc">true</Feature>
+		<Feature name="IIS-HealthAndDiagnostics">true</Feature>
+		<Feature name="WCF-HTTP-Activation45">true</Feature>
+		<Feature name="IIS-HttpErrors">true</Feature>
+		<Feature name="IIS-HttpLogging">true</Feature>
+		<Feature name="IIS-HttpRedirect">true</Feature>
+		<Feature name="IIS-IIS6ManagementCompatibility">true</Feature>
+		<Feature name="IIS-LegacySnapIn">true</Feature>
+		<Feature name="IIS-LegacyScripts">true</Feature>
+		<Feature name="IIS-WMICompatibility">true</Feature>
+		<Feature name="IIS-IISCertificateMappingAuthentication">true</Feature>
+		<Feature name="IIS-ManagementConsole">true</Feature>
+		<Feature name="IIS-ManagementScriptingTools">true</Feature>
+		<Feature name="IIS-ManagementService">true</Feature>
+		<Feature name="IIS-Metabase">true</Feature>
+		<Feature name="IIS-HostableWebCore">true</Feature>
+		<Feature name="IIS-WebServerRole">true</Feature>
+		<Feature name="IIS-IPSecurity">true</Feature>
+		<Feature name="IIS-ISAPIExtensions">true</Feature>
+		<Feature name="IIS-ISAPIFilter">true</Feature>
+		<Feature name="LegacyComponents">true</Feature>
+		<Feature name="IIS-LoggingLibraries">true</Feature>
+		<Feature name="WCF-MSMQ-Activation45">true</Feature>
+		<Feature name="MSMQ-Container">true</Feature>
+		<Feature name="MSMQ-ADIntegration">true</Feature>
+		<Feature name="MSMQ-DCOMProxy">true</Feature>
+		<Feature name="MSMQ-HTTP">true</Feature>
+		<Feature name="MSMQ-Triggers">true</Feature>
+		<Feature name="MSMQ-Multicast">true</Feature>
+		<Feature name="WCF-Pipe-Activation45">true</Feature>
+		<Feature name="IIS-ODBCLogging">true</Feature>
+		<Feature name="IIS-Performance">true</Feature>
+		<Feature name="IIS-RequestFiltering">true</Feature>
+		<Feature name="IIS-RequestMonitor">true</Feature>
+		<Feature name="IIS-Security">true</Feature>
+		<Feature name="IIS-ServerSideIncludes">true</Feature>
+		<Feature name="SimpleTCP">true</Feature>
+		<Feature name="IIS-HttpCompressionStatic">true</Feature>
+		<Feature name="IIS-StaticContent">true</Feature>
+		<Feature name="WCF-TCP-Activation45">true</Feature>
+		<Feature name="TelnetClient">true</Feature>
+		<Feature name="TFTP">true</Feature>
+		<Feature name="IIS-HttpTracing">true</Feature>
+		<Feature name="IIS-URLAuthorization">true</Feature>
+		<Feature name="IIS-WebServerManagementTools">true</Feature>
+		<Feature name="IIS-WebDAV">true</Feature>
+		<Feature name="IIS-WebSockets">true</Feature>
+		<Feature name="IIS-WindowsAuthentication">true</Feature>
+		<Feature name="Windows-Defender-ApplicationGuard">true</Feature>
+		<Feature name="Microsoft-Windows-Subsystem-Linux">true</Feature>
+		<Feature name="IIS-WebServer">true</Feature>
+	</Features>
+	<AddPackages></AddPackages>
+	<Drivers showHidden="false">
+		<AddDrivers></AddDrivers>
+	</Drivers>
+	<Unattended mode="1">
+		<OEMSetupComplete>false</OEMSetupComplete>
+		<AnswerFileLocationPanther>true</AnswerFileLocationPanther>
+		<AnswerFileLocationBoot>true</AnswerFileLocationBoot>
+		<SaveBothArch>false</SaveBothArch>
+		<settings pass="oobeSystem">
+			<component name="Microsoft-Windows-Deployment">
+				<Reseal>
+					<Mode>OOBE</Mode>
+				</Reseal>
+			</component>
+			<component name="Microsoft-Windows-International-Core">
+				<InputLocale>0804:00000804</InputLocale>
+				<SystemLocale>zh-CN</SystemLocale>
+				<UILanguage>zh-CN</UILanguage>
+				<UILanguageFallback>zh-CN</UILanguageFallback>
+				<UserLocale>zh-CN</UserLocale>
+			</component>
+			<component name="Microsoft-Windows-Shell-Setup">
+				<TimeZone>中国标准时间</TimeZone>
+				<AutoLogon>
+					<Enabled>true</Enabled>
+					<LogonCount>9999999</LogonCount>
+					<Username>Administrator</Username>
+					<Password>
+						<PlainText>true</PlainText>
+						<Value></Value>
+					</Password>
+				</AutoLogon>
+				<OOBE>
+					<HideEULAPage>true</HideEULAPage>
+					<HideLocalAccountScreen>true</HideLocalAccountScreen>
+					<HideOnlineAccountScreens>true</HideOnlineAccountScreens>
+					<HideWirelessSetupInOOBE>true</HideWirelessSetupInOOBE>
+					<NetworkLocation>Work</NetworkLocation>
+					<ProtectYourPC>3</ProtectYourPC>
+					<SkipMachineOOBE>true</SkipMachineOOBE>
+					<SkipUserOOBE>true</SkipUserOOBE>
+				</OOBE>
+				<UserAccounts>
+					<AdministratorPassword>
+						<PlainText>true</PlainText>
+						<Value></Value>
+					</AdministratorPassword>
+					<LocalAccounts>
+						<LocalAccount>
+							<Group>Administrators</Group>
+							<Name>Administrator</Name>
+							<Password>
+								<PlainText>true</PlainText>
+								<Value></Value>
+							</Password>
+						</LocalAccount>
+					</LocalAccounts>
+				</UserAccounts>
+			</component>
+		</settings>
+		<settings pass="specialize">
+			<component name="Microsoft-Windows-Deployment">
+				<RunSynchronous>
+					<RunSynchronousCommand>
+						<Order>1</Order>
+						<Path>net user Administrator /active:Yes</Path>
+						<WillReboot>Never</WillReboot>
+					</RunSynchronousCommand>
+				</RunSynchronous>
+			</component>
+		</settings>
+		<settings pass="windowsPE">
+			<component name="Microsoft-Windows-International-Core-WinPE">
+				<InputLocale>0804:00000804</InputLocale>
+				<SystemLocale>zh-CN</SystemLocale>
+				<UILanguage>zh-CN</UILanguage>
+				<UILanguageFallback>zh-CN</UILanguageFallback>
+				<UserLocale>zh-CN</UserLocale>
+				<SetupUILanguage>
+					<UILanguage>zh-CN</UILanguage>
+				</SetupUILanguage>
+			</component>
+			<component name="Microsoft-Windows-Setup">
+				<Diagnostics>
+					<OptIn>false</OptIn>
+				</Diagnostics>
+				<DynamicUpdate>
+					<WillShowUI>OnError</WillShowUI>
+				</DynamicUpdate>
+				<ImageInstall>
+					<OSImage>
+						<WillShowUI>OnError</WillShowUI>
+						<InstallFrom>
+							<MetaData>
+								<Key>/IMAGE/NAME</Key>
+								<Value>Windows 10 Enterprise</Value>
+							</MetaData>
+						</InstallFrom>
+					</OSImage>
+				</ImageInstall>
+				<UserData>
+					<AcceptEula>true</AcceptEula>
+					<ProductKey>
+						<Key>[KEY]</Key>
+						<WillShowUI>OnError</WillShowUI>
+					</ProductKey>
+				</UserData>
+			</component>
+		</settings>
+	</Unattended>
+	<Tweaks>
+		<Settings>
+			<TweakGroup name="OneDrive">
+				<Tweak name="OneDrive\DisableFileSyncNGSC">1</Tweak>
+			</TweakGroup>
+			<TweakGroup name="TCPIPSettings">
+				<Tweak name="parameters\EnableICMPRedirect">1</Tweak>
+				<Tweak name="parameters\PerformRouterDiscovery">1</Tweak>
+				<Tweak name="parameters\DisableReverseAddressRegistrations">0</Tweak>
+				<Tweak name="parameters\DisableDynamicUpdate">0</Tweak>
+				<Tweak name="parameters\DeadGWDetectDefault">1</Tweak>
+				<Tweak name="parameters\IGMPLevel">2</Tweak>
+			</TweakGroup>
+			<TweakGroup name="Windows">
+				<Tweak name="Configuration\DisableResetbase">0</Tweak>
+			</TweakGroup>
+			<TweakGroup name="WindowsDefender">
+				<Tweak name="Windows Defender\DisableAntiSpyware">1</Tweak>
+			</TweakGroup>
+			<TweakGroup name="WindowsUpdate">
+				<Tweak name="WindowsUpdate\ExcludeWUDriversInQualityUpdate">1</Tweak>
+				<Tweak name="DeliveryOptimization\DODownloadMode">0</Tweak>
+				<Tweak name="MRT\DontOfferThroughWUAU">0</Tweak>
+				<Tweak name="Settings\HideMCTLink">1</Tweak>
+				<Tweak name="AU\AUOptions">2</Tweak>
+				<Tweak name="DriverSearching\SearchOrderConfig">3</Tweak>
+				<Tweak name="Preferences\ModelDownloadAllowed">1</Tweak>
+				<Tweak name="Device Metadata\PreventDeviceMetadataFromNetwork">1</Tweak>
+			</TweakGroup>
+			<TweakGroup name="CrashControl">
+				<Tweak name="CrashControl\CrashDumpEnabled">0</Tweak>
+				<Tweak name="CrashControl\LogEvent">0</Tweak>
+			</TweakGroup>
+			<TweakGroup name="AppCompat">
+				<Tweak name="AppCompat\DisablePCA">0</Tweak>
+				<Tweak name="AppCompat\DisableInventory">1</Tweak>
+			</TweakGroup>
+			<TweakGroup name="DesktopTweaks">
+				<Tweak name="Personalize\AppsUseLightTheme">0</Tweak>
+				<Tweak name="Accent\AccentColorMenu">0</Tweak>
+				<Tweak name="Accent\StartColorMenu">0</Tweak>
+				<Tweak name="DWM\ColorPrevalence">1</Tweak>
+				<Tweak name="NewStartPanel\{645FF040-5081-101B-9F08-00AA002F954E}">1</Tweak>
+				<Tweak name="FlightedFeatures\ImmersiveContextMenu">1</Tweak>
+				<Tweak name="DWM\AccentColorInactive">0</Tweak>
+			</TweakGroup>
+			<TweakGroup name="UAC">
+				<Tweak name="System\EnableInstallerDetection">0</Tweak>
+				<Tweak name="System\ConsentPromptBehaviorAdmin">0</Tweak>
+				<Tweak name="System\EnableUIADesktopToggle">1</Tweak>
+				<Tweak name="System\FilterAdministratorToken">1</Tweak>
+			</TweakGroup>
+			<TweakGroup name="System">
+				<Tweak name="System\EnableLinkedConnections">1</Tweak>
+				<Tweak name="System\NoConnectedUser">0</Tweak>
+				<Tweak name="System\ShutdownWithoutLogon">1</Tweak>
+				<Tweak name="GameConfigStore\GameDVR_FSEBehavior">0</Tweak>
+				<Tweak name="System\EnableFirstLogonAnimation">1</Tweak>
+			</TweakGroup>
+			<TweakGroup name="Explorer">
+				<Tweak name="Advanced\DontUsePowerShellOnWinX">0</Tweak>
+				<Tweak name="ControlPanel\StartupPage">1</Tweak>
+				<Tweak name="Explorer\HideClock">0</Tweak>
+				<Tweak name="State\AccountProtection_MicrosoftAccount_Disconnected">0</Tweak>
+				<Tweak name="Advanced\HideMergeConflicts">1</Tweak>
+			</TweakGroup>
+			<TweakGroup name="Privacy">
+				<Tweak name="ContentDeliveryManager\RotatingLockScreenEnabled">1</Tweak>
+				<Tweak name="Explorer\SmartScreenEnabled">Off</Tweak>
+				<Tweak name="Internet Explorer\PhishingFilter\Enabledv9">0</Tweak>
+				<Tweak name="MicrosoftEdge\PhishingFilter\Enabledv9">0</Tweak>
+				<Tweak name="ContentDeliveryManager\RotatingLockScreenOverlayEnabled">0</Tweak>
+				<Tweak name="AppHost\EnableWebContentEvaluation">0</Tweak>
+				<Tweak name="ContentDeliveryManager\SilentInstalledAppsEnabled">0</Tweak>
+				<Tweak name="CloudContent\DisableWindowsConsumerFeatures">1</Tweak>
+				<Tweak name="ContentDeliveryManager\OemPreInstalledAppsEnabled">0</Tweak>
+				<Tweak name="ContentDeliveryManager\PreInstalledAppsEnabled">0</Tweak>
+			</TweakGroup>
+		</Settings>
+		<Services></Services>
+		<ExtraServices></ExtraServices>
+	</Tweaks>
+	<ApplyOptions>
+		<ImageTasks>
+			<Task>imageSaveTrim</Task>
+			<Task>imageFormatEsd</Task>
+			<Task>imageOptionsCreateIso</Task>
+		</ImageTasks>
+		<AutoIsoFile>D:\18247.1001.180922-2224.RS_PRERELEASE_CLIENTENTERPRISE_UUP_X64FRE_NETFX_ZH-CN.iso</AutoIsoFile>
+		<AutoIsoLabel>CCSA_X64FRE_ZH-CN_DV5</AutoIsoLabel>
+		<AutoSplitSize>4000</AutoSplitSize>
+		<CleanHotfixedLeftovers>0</CleanHotfixedLeftovers>
+		<ReuseDriverCache>false</ReuseDriverCache>
+	</ApplyOptions>
+	<Execution>
+		<Remove></Remove>
+		<Change></Change>
+		<Add>
+			<Item type="Placeholder">
+				<Index>0</Index>
+			</Item>
+		</Add>
+	</Execution>
+	<Registry></Registry>
+</Preset>
